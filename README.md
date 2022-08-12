@@ -4,8 +4,6 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCzBxPxlC38-33Hw1m05_o8Q)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavio_tsj/)
 
-![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviotn595&show_icons=true&theme=radical)
-
 ## Tecnologia Que Uso Todos Os Dias!
 
 <div style="display: inline_block"><br/>
@@ -14,5 +12,16 @@
 <img aline="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-Nao sou Profissional Mas preocuro sempre melhorar
-Sou apaixonado por Programação🔥!
+* 🌱 _Estudante de Desenvolvimento Back-End_
+
+<div align="center">
+  <a href="https://github.com/flaviotn595">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviotn595&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviotn595&layout=compact&langs_count=7&theme=dark"/>    
+</div>
+
+ <div align="center">
+<a href="https://ibb.co/XLZJkb4"><img src="https://i.ibb.co/vqxzvHB/pngwing-com-1.png" alt="pngwing-com-1" border="0" /></a>
+  </div>
+   
+![Snake animation](https://github.com/flaviotn595/flaviotn595/blob/output/github-contribution-grid-snake.svg)
