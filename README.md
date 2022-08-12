@@ -6,12 +6,7 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCzBxPxlC38-33Hw1m05_o8Q)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavio_tsj/)
 
-* 🔭 _Em Busca de Novas Aventuras_
 * 🌱 _Estudante de Desenvolvimento Back-End_
-* ⚡ _Sempre Procurando Novas Inspirações_
-- [x] Estudos
-- [x] Trabalhos
-- [x] Jogos
 
 <div align="center">
   <a href="https://github.com/flaviotn595">
